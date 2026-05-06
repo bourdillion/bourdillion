@@ -13,7 +13,7 @@ I love writting about what I learn, some of my articles include;
 - [How Aave Uses the Binomial Theorem to Calculate Compound Interest](https://www.linkedin.com/pulse/how-aave-uses-binomial-theorem-calculate-compound-interest-akhigbe-h37df/)
 - [Is Uniswap V3’s Bit Manipulation a Clever Optimization or Over-Engineering?](https://www.linkedin.com/pulse/uniswap-v3s-bit-manipulation-clever-optimization-isaac-akhigbe-ytirf/)
 
-and so much more that ended in draft...😄
+and so much more that ended in draft status...😄
 
 You can reach out to me at [Email](isaacakhigbe22@gmail.com), [x](https://x.com/bourdilion01), [Linkedin](https://www.linkedin.com/in/isaacakhigbe22)
 
