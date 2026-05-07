@@ -17,5 +17,5 @@ and so much more that ended in draft status...😄
 
 You can reach out to me at [Email](isaacakhigbe22@gmail.com), [x](https://x.com/bourdilion01), [Linkedin](https://www.linkedin.com/in/isaacakhigbe22)
 
-- ⚡ Currently reading: Introduction to modern cryptography by Jonathan Katz and Yehuda lindell.
+-  Currently reading: Introduction to modern cryptography by Jonathan Katz and Yehuda lindell.
 
