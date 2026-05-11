@@ -15,7 +15,7 @@ I love writting about what I learn, some of my articles include;
 
 and so much more that ended in draft status...😄
 
-You can reach out to me at [Email](isaacakhigbe22@gmail.com), [x](https://x.com/bourdilion01), [Linkedin](https://www.linkedin.com/in/isaacakhigbe22)
+You can reach out to me at [Email](isaacakhigbe22@gmail.com), [x](https://x.com/bourdilion01).
 
 -  Currently reading: Introduction to modern cryptography by Jonathan Katz and Yehuda lindell.
 
