@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am Isaac, a software engineer with 3 years of experience mainly spent building systems with Rust for the energy and procurement industry.
+I am Isaac, a software engineer with 3 years of experience mainly spent building systems for the energy and procurement industry.
 Formerly [@cloover](https://cloover.co/) and [@marketconnect](https://market-connect.net/)
 
 I transitioned into the blockchain ecosystem about a year ago as a security researcher, and now I am currently diving deeper into the very infrastructure that powers blockchain to be a protocol engineer and a cryptographer.
